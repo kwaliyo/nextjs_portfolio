@@ -91,7 +91,7 @@ const NavBar = () => {
       {/* Main Menu */}
       <div className="w-full flex justify-between items-center lg:hidden">
         <nav>
-          <CustomLinks href="/" title="Home" className="" />
+          <CustomLinks href="/" title="Home" className="mr-4" />
           <CustomLinks href="/about" title="About" className="mx-4" />
           <CustomLinks href="/projects" title="Projects" className="mx-4" />
           <CustomLinks href="/articles" title="Articles" className="ml-4" />
