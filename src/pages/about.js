@@ -85,6 +85,7 @@ const about = () => {
             //   (max-width: 1200px) 50vw,
             //   33vw"
             //   />
+             //     </div>
             // </div>
 
             <div className=" xl:col-span-8 xl:flex-row xl:items-center md:order-3 col-span-2 flex flex-col items-end justify-between">
